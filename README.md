@@ -31,10 +31,9 @@ Cisco Packet Tracer • Linux OS • Threat Analysis • Risk Assessment
 
 ---
 
-### 📫 Connect With Me
-📧 mrkhizar97@gmail.com  
+### 📫 Connect With Me  
 🔗 LinkedIn: linkedin.com/in/khizarulislam  
-🌐 Portfolio: khizarprofileonline.lovable.app  
+
 
 <!--
 **Khizar-malik97/Khizar-malik97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
